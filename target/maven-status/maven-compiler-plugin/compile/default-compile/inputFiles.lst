@@ -1,0 +1,6 @@
+/home/dan/Reactive Mongo/src/main/java/com/github/kamaudan/model/Movie.java
+/home/dan/Reactive Mongo/src/main/java/com/github/kamaudan/resource/MovieResource.java
+/home/dan/Reactive Mongo/src/main/java/com/github/kamaudan/ReactiveFlux.java
+/home/dan/Reactive Mongo/src/main/java/com/github/kamaudan/Services/MovieService.java
+/home/dan/Reactive Mongo/src/main/java/com/github/kamaudan/repository/MovieRepository.java
+/home/dan/Reactive Mongo/src/main/java/com/github/kamaudan/model/MovieEvents.java
